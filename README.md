@@ -48,14 +48,14 @@ O site possui categorias como:
 ## Estrutura do Projeto
 
 
-/
-/pulseiras-de-micanga
-/macrame-artesanal
-/presentes-artesanais
-/sobre-artesanaio
-/contato
-/loja
-/blog
+ - /
+ - /pulseiras-de-micanga
+ - /macrame-artesanal
+ - /presentes-artesanais
+ - /sobre-artesanaio
+ - /contato
+ - /loja
+ - /blog
 
 
 ---
